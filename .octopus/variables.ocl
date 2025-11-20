@@ -3836,4 +3836,9 @@ variable "AnotherVariable85" {
         channel = ["hotfix"]
         description = ""
     }
+
+    value "another85value" {
+        channel = ["pre-release"]
+        description = ""
+    }
 }
