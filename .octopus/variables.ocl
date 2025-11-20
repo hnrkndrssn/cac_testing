@@ -1,0 +1,6 @@
+variable "TestVariable1" {
+    value "thevalue" {
+        description = ""
+        environment = ["development"]
+    }
+}
