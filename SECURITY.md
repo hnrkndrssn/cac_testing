@@ -46,3 +46,5 @@ openssl rand -base64 64
 3. **Rate Limiting**: Implement rate limiting for authentication endpoints
 4. **Password Hashing**: Implement proper password hashing when integrating with a real user database
 5. **Token Expiration**: Adjust token expiration based on your security requirements
+
+
