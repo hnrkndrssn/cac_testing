@@ -5610,3 +5610,10 @@ variable "AnotherVariable189" {
         description = ""
     }
 }
+
+variable "AnotherVariable190" {
+    value "another190value" {
+        channel = ["default"]
+        description = ""
+    }
+}
