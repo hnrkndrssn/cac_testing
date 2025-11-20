@@ -4800,4 +4800,9 @@ variable "AnotherVariable142" {
         channel = ["default"]
         description = ""
     }
+
+    value "another142value" {
+        channel = ["hotfix"]
+        description = ""
+    }
 }
