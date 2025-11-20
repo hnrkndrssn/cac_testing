@@ -2522,4 +2522,9 @@ variable "AnotherVariable8" {
         channel = ["default"]
         description = ""
     }
+
+    value "another8value" {
+        channel = ["hotfix"]
+        description = ""
+    }
 }
