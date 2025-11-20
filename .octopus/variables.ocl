@@ -207,3 +207,10 @@ variable "TestVariable30" {
         environment = ["development"]
     }
 }
+
+variable "TestVariable31" {
+    value "thevalue" {
+        description = ""
+        environment = ["development"]
+    }
+}
