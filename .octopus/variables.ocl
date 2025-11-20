@@ -2414,3 +2414,10 @@ variable "AnotherVariable1" {
         description = ""
     }
 }
+
+variable "AnotherVariable2" {
+    value "another2value" {
+        channel = ["default"]
+        description = ""
+    }
+}
