@@ -4998,3 +4998,10 @@ variable "AnotherVariable153" {
         description = ""
     }
 }
+
+variable "AnotherVariable154" {
+    value "another154value" {
+        channel = ["default"]
+        description = ""
+    }
+}
