@@ -4465,4 +4465,9 @@ variable "AnotherVariable122" {
         channel = ["hotfix"]
         description = ""
     }
+
+    value "another122value" {
+        channel = ["pre-release"]
+        description = ""
+    }
 }
