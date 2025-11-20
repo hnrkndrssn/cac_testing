@@ -3196,3 +3196,10 @@ variable "AnotherVariable47" {
         description = ""
     }
 }
+
+variable "AnotherVariable48" {
+    value "another48value" {
+        channel = ["default"]
+        description = ""
+    }
+}
