@@ -4,3 +4,10 @@ variable "TestVariable1" {
         environment = ["development"]
     }
 }
+
+variable "TestVariable2" {
+    value "thevalue" {
+        description = ""
+        environment = ["development"]
+    }
+}
