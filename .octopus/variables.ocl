@@ -4080,3 +4080,10 @@ variable "AnotherVariable99" {
         description = ""
     }
 }
+
+variable "AnotherVariable100" {
+    value "another100value" {
+        channel = ["default"]
+        description = ""
+    }
+}
