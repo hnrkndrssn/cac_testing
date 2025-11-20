@@ -2930,4 +2930,9 @@ variable "AnotherVariable32" {
         channel = ["default"]
         description = ""
     }
+
+    value "another32value" {
+        channel = ["hotfix"]
+        description = ""
+    }
 }
