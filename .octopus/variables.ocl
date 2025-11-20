@@ -3848,4 +3848,9 @@ variable "AnotherVariable86" {
         channel = ["default"]
         description = ""
     }
+
+    value "another86value" {
+        channel = ["hotfix"]
+        description = ""
+    }
 }
