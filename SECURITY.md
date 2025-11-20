@@ -47,3 +47,4 @@ openssl rand -base64 64
 4. **Password Hashing**: Implement proper password hashing when integrating with a real user database
 5. **Token Expiration**: Adjust token expiration based on your security requirements
 
+
