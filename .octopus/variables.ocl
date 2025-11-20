@@ -4097,3 +4097,10 @@ variable "AnotherVariable100" {
         description = ""
     }
 }
+
+variable "AnotherVariable101" {
+    value "another101value" {
+        channel = ["default"]
+        description = ""
+    }
+}
