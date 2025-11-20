@@ -5446,4 +5446,9 @@ variable "AnotherVariable180" {
         channel = ["default"]
         description = ""
     }
+
+    value "another180value" {
+        channel = ["hotfix"]
+        description = ""
+    }
 }
