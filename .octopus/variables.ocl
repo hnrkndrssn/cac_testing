@@ -2397,3 +2397,10 @@ variable "TestVariable200" {
         environment = ["staging", "production"]
     }
 }
+
+variable "AnotherVariable1" {
+    value "another1value" {
+        channel = ["default"]
+        description = ""
+    }
+}
